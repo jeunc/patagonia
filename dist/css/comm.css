@@ -1,0 +1,9 @@
+@charset "UTF-8";
+* {
+    margin: -2px auto;
+    padding: 0px;
+    width: 1920px;
+}
+a {
+    text-decoration: none;
+}
